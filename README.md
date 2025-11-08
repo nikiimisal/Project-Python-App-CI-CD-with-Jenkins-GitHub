@@ -9,6 +9,7 @@
 
 This project demonstrates a **complete CI/CD pipeline** for a **Python application** using **Jenkins and GitHub Webhooks**, fully automated from **code push → build → test → deploy**.
 
+>>This documentation is beginner-friendly as well as professional.
 ---
 
 <p align="center">
