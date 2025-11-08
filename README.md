@@ -12,7 +12,7 @@ This project demonstrates a **complete CI/CD pipeline** for a **Python applicati
 ---
 
 <p align="center">
-  <img src="https://github.com/nikiimisal/Project-Python-App-CI-CD-with-Jenkins-GitHub-Webhook/blob/main/img/python_cicd_banner.png?raw=true" width="700" alt="Python CI/CD Flow Image">
+  <img src="https://github.com/nikiimisal/Project-Python-App-CI-CD-with-Jenkins-GitHub/blob/main/img/uuuuu.png?raw=true" width="700" alt="Python CI/CD Flow Image">
 </p>
 
 ---
