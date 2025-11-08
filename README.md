@@ -1,11 +1,9 @@
 # 🚀 Python App — CI/CD with Jenkins & GitHub 
 
->ChatGPT said:
 
-Both the Python App — CI/CD with Jenkins & GitHub and the Node.js App — CI/CD with Jenkins & GitHub projects are almost the same, with only slight differences. You can also check my Node.js app project for reference.<br>
-[GitHub Repo](https://github.com/nikiimisal/Project-Node.js-App-CI-CD-with-Jenkins-GitHub)
+>Both the Python App — CI/CD with Jenkins & GitHub and the Node.js App — CI/CD with Jenkins & GitHub projects are almost the same, with only slight differences. You can also check my Node.js app project for reference.[GitHub Repo](https://github.com/nikiimisal/Project-Node.js-App-CI-CD-with-Jenkins-GitHub)<br>
 
-For the Python app setup, I’ve created a repository that includes the Jenkinsfile and other required setup materials.<br>
+>For the Python app setup, I’ve created a repository that includes the Jenkinsfile and other required setup materials.<br>
 👉 Click here to view the repo.[GitHub Repo](https://github.com/nikiimisal/python.app-CICD-setup-repo/tree/main)
 
 This project demonstrates a **complete CI/CD pipeline** for a **Python application** using **Jenkins and GitHub Webhooks**, fully automated from **code push → build → test → deploy**.
