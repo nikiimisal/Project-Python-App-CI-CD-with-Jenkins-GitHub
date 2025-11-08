@@ -73,6 +73,7 @@ Create 2 EC2 instances in same VPC:
 - Target Server → Ports `22`, `5000`  
 <br>
 >Optional you can add these steps in jenkins file
+Run this command in terminal
 
 ```bash
 sudo hostnamectl hostname python-app
@@ -188,13 +189,18 @@ git add .
 git commit -m "Initial Python CI/CD setup"
 git push -u origin main
 ```
+>Now we pushed code to GitHub, a webhook instantly notifies the Jenkins server. Jenkins then automatically pulls the latest code, installs dependencies, runs tests, builds the application, and deploys it to the target server
 
 ---
 
 ### Step 7: Verify Build
 
-In Jenkins → Open Job → Click **Build Now**
+Open jenkin:
 
+-- click build know
+
+>If the pipeline runs successfully, that’s great 👍 —<br>
+but if it fails, check the Console Output in Jenkins to see the errors and fix them accordingly.
 ---
 
 ### Step 8: Access App in Browser
